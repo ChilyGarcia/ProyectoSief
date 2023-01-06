@@ -22,6 +22,8 @@ public class ActividadIndicadores extends javax.swing.JFrame {
      */
     public ActividadIndicadores() {
         initComponents();
+        setLocationRelativeTo(null);
+        
     }
     
     public void mostrar()
